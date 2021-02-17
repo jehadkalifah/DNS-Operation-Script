@@ -1,0 +1,6 @@
+Zone Name,NetBois Name,Record Type,New IP Address,New Ptr IP Address (Last Octet),New Ptr Zone Name
+abc.local,Orange01,A,192.168.1.1,1,1.168.192.in-addr.arpa
+abc.local,Orange02,A,192.168.1.2,2,1.168.192.in-addr.arpa
+abc.local,Orange03,A,192.168.1.3,3,1.168.192.in-addr.arpa
+abc.local,Orange04,A,192.168.1.4,4,1.168.192.in-addr.arpa
+abc.local,Orange05,A,192.168.1.5,5,1.168.192.in-addr.arpa

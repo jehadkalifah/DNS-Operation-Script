@@ -1,0 +1,6 @@
+Zone Name,NetBois Name,Record Type,PTR Zone Name,PTR Name,Reverse Record Type
+abc.local,Orange01,A,1.168.192.in-addr.arpa,1,Ptr
+abc.local,Orange02,A,1.168.192.in-addr.arpa,2,Ptr
+abc.local,Orange03,A,1.168.192.in-addr.arpa,3,Ptr
+abc.local,Orange04,A,1.168.192.in-addr.arpa,4,Ptr
+abc.local,Orange05,A,1.168.192.in-addr.arpa,5,Ptr
